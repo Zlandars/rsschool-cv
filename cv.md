@@ -1,7 +1,6 @@
-[rsschool-cv](https://zlandars.github.io/rsschool-cv/)
->***
->### Landarski Evgeny
->---
+***
+### Landarski Evgeny
+---
 ##### Contacts
 ---
 * Телефон - +375 (44) 776-39-93
@@ -13,21 +12,21 @@ Junior Software Developer adept in bringing forth expertise in develop software 
 
 ##### Hard skills
 ***
-  ★★★☆☆ JavaScript
-  ★★★☆☆ HTML 
-  ★★★☆☆ CSS/SCSS
-  ★★☆☆☆ Git
-  ★★★★☆ Linux/MacOS Administration
+  * ★★★☆☆ JavaScript
+  * ★★★☆☆ HTML 
+  * ★★★☆☆ CSS/SCSS
+  * ★★☆☆☆ Git
+  * ★★★★☆ Linux/MacOS Administration
 
 ##### Soft skills
 ***
-  ★★★☆☆ Teamwork
-  ★★★☆☆ Adaptability
-  ★★★★★ Fast Learner
-  ★★★★★ Computer Skills
-  ★★★☆☆ Ability to Multitask
-  ★★★★★ Communication Skills
-  ★★★★★ Critical Thinking
+  * ★★★☆☆ Teamwork
+  * ★★★☆☆ Adaptability
+  * ★★★★★ Fast Learner
+  * ★★★★★ Computer Skills
+  * ★★★☆☆ Ability to Multitask
+  * ★★★★★ Communication Skills
+  * ★★★★★ Critical Thinking
 
 ##### Education
 ***
