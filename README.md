@@ -1,1 +1,1 @@
-[# rsschool-cv](https://zlandars.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://zlandars.github.io/rsschool-cv/)
